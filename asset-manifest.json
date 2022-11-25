@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/almentor-clone/static/js/main.962dc513.js",
+    "index.html": "/almentor-clone/index.html",
+    "main.962dc513.js.map": "/almentor-clone/static/js/main.962dc513.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.962dc513.js"
+  ]
+}
